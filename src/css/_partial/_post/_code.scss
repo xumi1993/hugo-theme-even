@@ -180,6 +180,7 @@ figure.highlight {
     // Fix code block null line height and
     // Synchronous gutter and code line highly.
     line-height: round($code-font-size * 1.5);
+    // line-height: 3em;
 
     &:first-child {
       width: 10px;
